@@ -26,7 +26,7 @@ Para executar este projeto em sua máquina local, siga estas etapas:
    ```
 
 4. **Execução do Projeto**
-   Para executar o aplicativo de linha de comando, use:
+   Para observar o aplicativo em execução de acordo com os casos de uso da avaliação, use:
    ```
    make run.sample
    ```
